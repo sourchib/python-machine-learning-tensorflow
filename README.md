@@ -13,6 +13,7 @@ buka file extension ipynb (jupyter)
 kemudian install library berikut,
 pip install jupyter
 pip install tensorflow
+pip install -U scikit-learn scipy matplotlib
 pip install zipfile
 pip install numpy
 ```
