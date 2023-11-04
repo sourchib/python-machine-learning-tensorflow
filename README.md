@@ -22,6 +22,12 @@ pip install -U scikit-learn scipy matplotlib
 pip install zipfile
 pip install numpy
 ```
+or
+```
+open url (https://colab.research.google.com)
+uploud file ipynb
+run all
+```
 
 ## Run notebook
 ```
