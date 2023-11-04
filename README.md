@@ -4,9 +4,14 @@ Dicoding IDCAMP 2023 Membuat deteksi dan klasifikasi gambar otomatis Machine Lea
 # Dicoding Step Configurasi MachineLearning IDCAMP 2023 ✨
 
 ## Prepare Tools
+```
 install python pip
 install jupyter notebook
-
+```
+or
+```
+feature google colab GPU
+```
 ## Setup environment priority
 ```
 buka file extension ipynb (jupyter)
